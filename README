@@ -1,3 +1,15 @@
+
+Special thanks to @ilya-fedin for efforts to maintain this fork
+I still use this in my personal Gentoo use so I'm going to keep it here for now
+as upstream is pretty much dead.
+
+If others enjoy qt6ct feel free to file patches, I'll try to keep up.
+
+Reference: https://github.com/trialuser02/qt6ct/pull/43
+
+
+=======================================================================
+
 qt6ct - Qt6 Configuration Tool
 
 This program allows users to configure Qt6 settings (theme, font, icons, etc.)
